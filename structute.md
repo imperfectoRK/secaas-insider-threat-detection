@@ -76,5 +76,9 @@ secaas-insider-threat-detection/
     └── generate_activity_logs.py
 
 
-git config --global user.name "Rksuryawanshi"
-git config --global user.email "rahulkumarkushwaha81@gmail.com"
+
+rahul@252is029:~/Documents/VS_code/github/secaas-insider-threat-detection$
+
+
+
+
